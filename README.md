@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anmol-bro
-- 👀 I’m interested in Artificial intelligence and Machine Learning
-- 🌱 I’m currently learning Python 
+- 👋 Hi, I’m Anmol
+- 👀 I’m interested in MERN and Artificial intelligence
+- 🌱 I’m currently Working JS Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : +916392473219
 
